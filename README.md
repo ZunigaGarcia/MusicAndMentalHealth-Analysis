@@ -32,7 +32,7 @@ EDA involved exploring the data to answer key questions such as:
 * Who are the most vulnerable populations?
 * How are mental disorders distributed according to the respondents' taste?
 
-## Dashboards
+## Dashboards 📋
 These can be found in the "Music And Mental Health.twb" file, which I have left along with the other sources in this repository so that you can explore and interact with them. (I do not own Tableau Server so I couldn't upload it there :( ) they are on the very first pages of the Tableau file.
 ![Dashboard - General Aspects](https://github.com/ZunigaGarcia/MusicAndMentalHealth-Analysis/assets/168041126/217e1d70-1e34-4c96-ab34-43caa172daa8)
 ![Dashboard - Music effects on Mental Disorders](https://github.com/ZunigaGarcia/MusicAndMentalHealth-Analysis/assets/168041126/ab842b86-6f23-47a1-9a02-5e4450adde56)
